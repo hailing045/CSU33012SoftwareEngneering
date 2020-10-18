@@ -13,8 +13,9 @@ class Node {
 	} 
 } 
 
+
 public class LCA {
-	Node root; 
+	Node root; //to check the commit
 	private List<Integer> path1 = new ArrayList<>(); 
 	private List<Integer> path2 = new ArrayList<>(); 
 
